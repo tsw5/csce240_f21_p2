@@ -1,9 +1,9 @@
 #ifndef SUPERSTRING_H_
 #define SUPERSTRING_H_
-// Author: <Enter name here>
-// Email: <Enter email here>
-// Section #: <Enter section here>
-// Copyright 2021 <Enter Name Here>
+// Author: Tatiana Washington
+// Email: tsw5@email.sc.edu
+// Section #: 002
+// Copyright 2021 Tatiana Washington
 // Modified from template code @coleca24 GitHub
 #include <iostream>
 #include <string>
@@ -47,7 +47,6 @@ class SuperString {
     char *data;
     int size;
 };
-
 
 
 #endif  // SUPERSTRING_H_
